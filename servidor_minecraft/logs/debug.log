@@ -516,3 +516,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12May2025 20:15:04.010] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/NaturalSpawner
 [12May2025 20:20:03.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save santiagoesgey
 [12May2025 20:20:03.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete santiagoesgey
+[12May2025 20:25:03.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save santiagoesgey
+[12May2025 20:25:03.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete santiagoesgey
+[12May2025 20:30:03.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save santiagoesgey
+[12May2025 20:30:03.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete santiagoesgey
